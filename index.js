@@ -320,6 +320,8 @@
 
 // 😳 4 Challenge Time 
 // What will be the output of 3**3? 
+var v=3**3;
+console.log(v)  // 27
 // What will be the output, when we add a number and a string?
 // Write a program to swap two numbers?
 // Write a program to swap two numbers without using third variable?
